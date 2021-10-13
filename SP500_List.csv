@@ -1,0 +1,506 @@
+Symbol,Noisy Ticker,Security
+A,1,Agilent Technologies
+AAL,0,American Airlines Group
+AAP,0,Advance Auto Parts
+AAPL,0,Apple
+ABBV,0,AbbVie
+ABC,1,AmerisourceBergen
+ABMD,0,Abiomed
+ABT,0,Abbott Laboratories
+ACN,0,Accenture
+ADBE,0,Adobe
+ADI,0,Analog Devices
+ADM,0,ADM
+ADP,0,Automatic Data Processing
+ADSK,0,Autodesk
+AEE,1,Ameren Corp
+AEP,0,American Electric Power
+AES,0,AES Corp
+AFL,0,Aflac
+AIG,0,American International Group
+AIZ,0,Assurant
+AJG,0,Arthur J. Gallagher & Co.
+AKAM,0,Akamai Technologies
+ALB,0,Albemarle Corporation
+ALGN,0,Align Technology
+ALK,0,Alaska Air Group
+ALL,1,Allstate Corp
+ALLE,0,Allegion
+AMAT,0,Applied Materials
+AMCR,0,Amcor
+AMD,0,Advanced Micro Devices
+AME,0,Ametek
+AMGN,0,Amgen
+AMP,0,Ameriprise Financial
+AMT,0,American Tower
+AMZN,0,Amazon
+ANET,0,Arista Networks
+ANSS,0,Ansys
+ANTM,0,Anthem
+AON,0,Aon
+AOS,0,A. O. Smith
+APA,0,APA Corporation
+APD,0,Air Products & Chemicals
+APH,0,Amphenol Corp
+APTV,0,Aptiv
+ARE,0,Alexandria Real Estate Equities
+ATO,0,Atmos Energy
+ATVI,0,Activision Blizzard
+AVB,0,AvalonBay Communities
+AVGO,0,Broadcom
+AVY,0,Avery Dennison
+AWK,0,American Water Works
+AXP,0,American Express
+AZO,0,AutoZone
+BA,0,Boeing
+BAC,0,Bank of America
+BAX,0,Baxter International
+BBWI,0,"Bath & Body Works, Inc."
+BBY,0,Best Buy
+BDX,0,Becton Dickinson
+BEN,0,Franklin Resources
+BF.B,0,Brown–Forman
+BIIB,0,Biogen
+BIO,1,Bio-Rad Laboratories
+BK,0,BNY Mellon
+BKNG,0,Booking Holdings
+BKR,0,Baker Hughes
+BLK,0,BlackRock
+BLL,0,Ball Corp
+BMY,0,Bristol Myers Squibb
+BR,0,Broadridge Financial Solutions
+BRK.B,0,Berkshire Hathaway
+BRO,0,Brown & Brown
+BSX,0,Boston Scientific
+BWA,0,BorgWarner
+BXP,0,Boston Properties
+C,1,Citigroup
+CAG,0,Conagra Brands
+CAH,0,Cardinal Health
+CARR,0,Carrier Global
+CAT,0,Caterpillar
+CB,0,Chubb
+CBOE,0,Cboe Global Markets
+CBRE,0,CBRE
+CCI,1,Crown Castle
+CCL,0,Carnival Corporation
+CDAY,0,Ceridian
+CDNS,0,Cadence Design Systems
+CDW,0,CDW
+CE,1,Celanese
+CERN,0,Cerner
+CF,1,CF Industries
+CFG,0,Citizens Financial Group
+CHD,0,Church & Dwight
+CHRW,0,C. H. Robinson
+CHTR,0,Charter Communications
+CI,1,Cigna
+CINF,0,Cincinnati Financial
+CL,0,Colgate-Palmolive
+CLX,0,Clorox
+CMA,0,Comerica
+CMCSA,0,Comcast
+CME,0,CME Group
+CMG,0,Chipotle Mexican Grill
+CMI,1,Cummins
+CMS,0,CMS Energy
+CNC,0,Centene Corporation
+CNP,0,CenterPoint Energy
+COF,0,Capital One Financial
+COG,0,Cabot Oil & Gas
+COO,1,The Cooper Companies
+COP,0,ConocoPhillips
+COST,0,Costco
+CPB,0,Campbell Soup
+CPRT,0,Copart
+CRL,0,Charles River Laboratories
+CRM,0,Salesforce
+CSCO,0,Cisco Systems
+CSX,0,CSX
+CTAS,0,Cintas Corporation
+CTLT,0,Catalent
+CTSH,0,Cognizant Technology Solutions
+CTVA,0,Corteva
+CTXS,0,Citrix Systems
+CVS,0,CVS Health
+CVX,0,Chevron Corporation
+CZR,0,Caesars Entertainment
+D,1,Dominion Energy
+DAL,0,Delta Air Lines
+DD,1,DuPont
+DE,1,Deere & Co.
+DFS,0,Discover Financial Services
+DG,0,Dollar General
+DGX,0,Quest Diagnostics
+DHI,0,D. R. Horton
+DHR,0,Danaher Corporation
+DIS,0,The Walt Disney Company
+DISCA,0,Discovery (Series A)
+DISCK,0,Discovery (Series C)
+DISH,0,Dish Network
+DLR,0,Digital Realty Trust
+DLTR,0,Dollar Tree
+DOV,0,Dover Corporation
+DOW,0,Dow
+DPZ,0,Domino's Pizza
+DRE,0,Duke Realty Corp
+DRI,0,Darden Restaurants
+DTE,0,DTE Energy
+DUK,0,Duke Energy
+DVA,0,DaVita
+DVN,0,Devon Energy
+DXC,0,DXC Technology
+DXCM,0,DexCom
+EA,0,Electronic Arts
+EBAY,0,eBay
+ECL,0,Ecolab
+ED,0,Consolidated Edison
+EFX,0,Equifax
+EIX,0,Edison International
+EL,0,Estée Lauder Companies
+EMN,0,Eastman Chemical
+EMR,0,Emerson Electric Company
+ENPH,0,Enphase Energy
+EOG,0,EOG Resources
+EQIX,0,Equinix
+EQR,0,Equity Residential
+ES,1,Eversource Energy
+ESS,0,Essex Property Trust
+ETN,0,Eaton Corporation
+ETR,0,Entergy
+ETSY,0,Etsy
+EVRG,0,Evergy
+EW,0,Edwards Lifesciences
+EXC,0,Exelon
+EXPD,0,Expeditors
+EXPE,0,Expedia Group
+EXR,0,Extra Space Storage
+F,1,Ford
+FANG,0,Diamondback Energy
+FAST,1,Fastenal
+FB,0,Facebook
+FBHS,0,Fortune Brands Home & Security
+FCX,0,Freeport-McMoRan
+FDX,0,FedEx
+FE,0,FirstEnergy
+FFIV,0,F5 Networks
+FIS,0,Fidelity National Information Services
+FISV,0,Fiserv
+FITB,0,Fifth Third Bancorp
+FLT,0,Fleetcor
+FMC,0,FMC Corporation
+FOX,0,Fox Corporation (Class B)
+FOXA,0,Fox Corporation (Class A)
+FRC,0,First Republic Bank
+FRT,0,Federal Realty Investment Trust
+FTNT,0,Fortinet
+FTV,0,Fortive
+GD,0,General Dynamics
+GE,0,General Electric
+GILD,0,Gilead Sciences
+GIS,0,General Mills
+GL,1,Globe Life
+GLW,0,Corning
+GM,0,General Motors
+GNRC,0,Generac Holdings
+GOOG,0,Alphabet (Class C)
+GOOGL,0,Alphabet (Class A)
+GPC,0,Genuine Parts
+GPN,0,Global Payments
+GPS,0,Gap
+GRMN,0,Garmin
+GS,0,Goldman Sachs
+GWW,0,W. W. Grainger
+HAL,0,Halliburton
+HAS,1,Hasbro
+HBAN,0,Huntington Bancshares
+HBI,0,Hanesbrands
+HCA,0,HCA Healthcare
+HD,0,Home Depot
+HES,0,Hess Corporation
+HIG,0,The Hartford
+HII,0,Huntington Ingalls Industries
+HLT,0,Hilton Worldwide
+HOLX,0,Hologic
+HON,0,Honeywell
+HPE,0,Hewlett Packard Enterprise
+HPQ,0,HP
+HRL,0,Hormel
+HSIC,0,Henry Schein
+HST,0,Host Hotels & Resorts
+HSY,0,The Hershey Company
+HUM,0,Humana
+HWM,0,Howmet Aerospace
+IBM,0,IBM
+ICE,1,Intercontinental Exchange
+IDXX,0,Idexx Laboratories
+IEX,0,IDEX Corporation
+IFF,0,International Flavors & Fragrances
+ILMN,0,Illumina
+INCY,0,Incyte
+INFO,1,IHS Markit
+INTC,0,Intel
+INTU,0,Intuit
+IP,0,International Paper
+IPG,0,Interpublic Group
+IPGP,0,IPG Photonics
+IQV,0,IQVIA
+IR,0,Ingersoll Rand
+IRM,0,Iron Mountain
+ISRG,0,Intuitive Surgical
+IT,1,Gartner
+ITW,0,Illinois Tool Works
+IVZ,0,Invesco
+J,1,Jacobs Engineering Group
+JBHT,0,J. B. Hunt
+JCI,0,Johnson Controls
+JKHY,0,Jack Henry & Associates
+JNJ,0,Johnson & Johnson
+JNPR,0,Juniper Networks
+JPM,0,JPMorgan Chase
+K,1,Kellogg's
+KEY,0,KeyCorp
+KEYS,0,Keysight Technologies
+KHC,0,Kraft Heinz
+KIM,0,Kimco Realty
+KLAC,0,KLA Corporation
+KMB,0,Kimberly-Clark
+KMI,0,Kinder Morgan
+KMX,0,CarMax
+KO,0,Coca-Cola Company
+KR,0,Kroger
+KSU,0,Kansas City Southern
+L,1,Loews Corporation
+LDOS,0,Leidos
+LEG,0,Leggett & Platt
+LEN,0,Lennar
+LH,0,LabCorp
+LHX,0,L3Harris Technologies
+LIN,0,Linde
+LKQ,0,LKQ Corporation
+LLY,0,Eli Lilly & Co
+LMT,0,Lockheed Martin
+LNC,0,Lincoln National
+LNT,0,Alliant Energy
+LOW,0,Lowe's
+LRCX,0,Lam Research
+LUMN,0,Lumen Technologies
+LUV,0,Southwest Airlines
+LVS,0,Las Vegas Sands
+LW,0,Lamb Weston
+LYB,0,LyondellBasell
+LYV,0,Live Nation Entertainment
+MA,0,Mastercard
+MAA,0,Mid-America Apartments
+MAR,0,Marriott International
+MAS,0,Masco
+MCD,0,McDonald's
+MCHP,0,Microchip Technology
+MCK,0,McKesson Corporation
+MCO,0,Moody's Corporation
+MDLZ,0,Mondelez International
+MDT,0,Medtronic
+MET,0,MetLife
+MGM,0,MGM Resorts International
+MHK,0,Mohawk Industries
+MKC,0,McCormick & Company
+MKTX,0,MarketAxess
+MLM,0,Martin Marietta Materials
+MMC,0,Marsh & McLennan
+MMM,0,3M
+MNST,0,Monster Beverage
+MO,0,Altria Group
+MOS,0,The Mosaic Company
+MPC,0,Marathon Petroleum
+MPWR,0,Monolithic Power Systems
+MRK,0,Merck & Co.
+MRNA,0,Moderna
+MRO,0,Marathon Oil
+MS,1,Morgan Stanley
+MSCI,0,MSCI
+MSFT,0,Microsoft
+MSI,0,Motorola Solutions
+MTB,0,M&T Bank
+MTCH,0,Match Group
+MTD,0,Mettler Toledo
+MU,0,Micron Technology
+NCLH,0,Norwegian Cruise Line Holdings
+NDAQ,0,Nasdaq
+NEE,0,NextEra Energy
+NEM,0,Newmont
+NFLX,0,Netflix
+NI,0,NiSource
+NKE,0,Nike
+NLOK,0,NortonLifeLock
+NLSN,0,Nielsen Holdings
+NOC,0,Northrop Grumman
+NOW,0,ServiceNow
+NRG,0,NRG Energy
+NSC,0,Norfolk Southern
+NTAP,0,NetApp
+NTRS,0,Northern Trust
+NUE,0,Nucor
+NVDA,0,Nvidia
+NVR,0,NVR
+NWL,0,Newell Brands
+NWS,0,News Corp (Class B)
+NWSA,0,News Corp (Class A)
+NXPI,0,NXP
+O,1,Realty Income Corporation
+ODFL,0,Old Dominion Freight Line
+OGN,0,Organon & Co.
+OKE,0,Oneok
+OMC,0,Omnicom Group
+ORCL,0,Oracle
+ORLY,0,O'Reilly Automotive
+OTIS,0,Otis Worldwide
+OXY,0,Occidental Petroleum
+PAYC,0,Paycom
+PAYX,0,Paychex
+PBCT,0,People's United Financial
+PCAR,0,Paccar
+PEAK,0,Healthpeak Properties
+PEG,0,Public Service Enterprise Group
+PENN,0,Penn National Gaming
+PEP,0,PepsiCo
+PFE,0,Pfizer
+PFG,0,Principal Financial Group
+PG,0,Procter & Gamble
+PGR,0,Progressive Corporation
+PH,0,Parker-Hannifin
+PHM,0,PulteGroup
+PKG,0,Packaging Corporation of America
+PKI,0,PerkinElmer
+PLD,0,Prologis
+PM,0,Philip Morris International
+PNC,0,PNC Financial Services
+PNR,0,Pentair
+PNW,0,Pinnacle West Capital
+POOL,0,Pool Corporation
+PPG,0,PPG Industries
+PPL,0,PPL
+PRU,0,Prudential Financial
+PSA,0,Public Storage
+PSX,0,Phillips 66
+PTC,0,PTC
+PVH,0,PVH
+PWR,0,Quanta Services
+PXD,0,Pioneer Natural Resources
+PYPL,0,PayPal
+QCOM,0,Qualcomm
+QRVO,0,Qorvo
+RCL,0,Royal Caribbean Group
+RE,1,Everest Re
+REG,0,Regency Centers
+REGN,0,Regeneron Pharmaceuticals
+RF,0,Regions Financial Corporation
+RHI,0,Robert Half International
+RJF,0,Raymond James Financial
+RL,1,Ralph Lauren Corporation
+RMD,0,ResMed
+ROK,0,Rockwell Automation
+ROL,0,Rollins
+ROP,0,Roper Technologies
+ROST,0,Ross Stores
+RSG,0,Republic Services
+RTX,0,Raytheon Technologies
+SBAC,0,SBA Communications
+SBUX,0,Starbucks
+SCHW,0,Charles Schwab Corporation
+SEE,0,Sealed Air
+SHW,0,Sherwin-Williams
+SIVB,0,SVB Financial
+SJM,0,JM Smucker
+SLB,0,Schlumberger
+SNA,0,Snap-on
+SNPS,0,Synopsys
+SO,0,Southern Company
+SPG,0,Simon Property Group
+SPGI,0,S&P Global
+SRE,0,Sempra Energy
+STE,0,Steris
+STT,0,State Street Corporation
+STX,0,Seagate Technology
+STZ,0,Constellation Brands
+SWK,0,Stanley Black & Decker
+SWKS,0,Skyworks Solutions
+SYF,0,Synchrony Financial
+SYK,0,Stryker Corporation
+SYY,0,Sysco
+T,0,AT&T
+TAP,0,Molson Coors Beverage Company
+TDG,0,TransDigm Group
+TDY,0,Teledyne Technologies
+TECH,1,Bio-Techne
+TEL,0,TE Connectivity
+TER,0,Teradyne
+TFC,0,Truist Financial
+TFX,0,Teleflex
+TGT,0,Target Corporation
+TJX,0,TJX Companies
+TMO,0,Thermo Fisher Scientific
+TMUS,0,T-Mobile US
+TPR,0,Tapestry
+TRMB,0,Trimble
+TROW,0,T. Rowe Price
+TRV,0,The Travelers Companies
+TSCO,0,Tractor Supply Company
+TSLA,0,Tesla
+TSN,0,Tyson Foods
+TT,0,Trane Technologies
+TTWO,0,Take-Two Interactive
+TWTR,0,Twitter
+TXN,0,Texas Instruments
+TXT,0,Textron
+TYL,0,Tyler Technologies
+UA,0,Under Armour (Class C)
+UAA,0,Under Armour (Class A)
+UAL,0,United Airlines
+UDR,0,UDR
+UHS,0,Universal Health Services
+ULTA,0,Ulta Beauty
+UNH,0,UnitedHealth Group
+UNP,0,Union Pacific
+UPS,0,United Parcel Service
+URI,0,United Rentals
+USB,0,U.S. Bancorp
+V,1,Visa
+VFC,0,VF Corporation
+VIAC,0,ViacomCBS
+VLO,0,Valero Energy
+VMC,0,Vulcan Materials
+VNO,0,Vornado Realty Trust
+VRSK,0,Verisk Analytics
+VRSN,0,Verisign
+VRTX,0,Vertex Pharmaceuticals
+VTR,0,Ventas
+VTRS,0,Viatris
+VZ,0,Verizon Communications
+WAB,0,Wabtec
+WAT,0,Waters Corporation
+WBA,0,Walgreens Boots Alliance
+WDC,0,Western Digital
+WEC,0,WEC Energy Group
+WELL,0,Welltower
+WFC,0,Wells Fargo
+WHR,0,Whirlpool Corporation
+WLTW,0,Willis Towers Watson
+WM,0,Waste Management
+WMB,0,Williams Companies
+WMT,0,Walmart
+WRB,0,W. R. Berkley Corporation
+WRK,0,WestRock
+WST,0,West Pharmaceutical Services
+WU,0,Western Union
+WY,0,Weyerhaeuser
+WYNN,0,Wynn Resorts
+XEL,0,Xcel Energy
+XLNX,0,Xilinx
+XOM,0,ExxonMobil
+XRAY,0,Dentsply Sirona
+XYL,0,Xylem
+YUM,0,Yum! Brands
+ZBH,0,Zimmer Biomet
+ZBRA,0,Zebra Technologies
+ZION,0,Zions Bancorp
+ZTS,0,Zoetis
